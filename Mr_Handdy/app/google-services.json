@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "751934315256",
+    "firebase_url": "https://mrhanddy.firebaseio.com",
+    "project_id": "mrhanddy",
+    "storage_bucket": "mrhanddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751934315256:android:604543ed7ea57543",
+        "android_client_info": {
+          "package_name": "kr.ac.dongyang.mr_handdy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751934315256-ce2k7tme0iedan72k4frtpi16mrmiv5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIOMmNRNkI8yVoDaghn6Vk_tlXwUg5PpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751934315256-ce2k7tme0iedan72k4frtpi16mrmiv5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
